@@ -2,5 +2,9 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hola!
-Use the left arrow to go back!
+Life plan:
+```javascript
+if (webDev){
+  return dreamComeTrue
+}
+```
